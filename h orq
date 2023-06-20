@@ -1,0 +1,29 @@
+[33mcommit 1397666266cab6bfefa3283d2c4e5191efa2a8b7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ShinJaehun <gunsmoke.shin@gmail.com>
+Date:   Tue Jun 20 22:56:31 2023 +0900
+
+    finish chapter 7
+
+[33mcommit f4e3c33a602d1526c71c1783b625daa7f2de1e1d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ShinJaehun <gunsmoke.shin@gmail.com>
+Date:   Mon Jun 19 22:36:18 2023 +0900
+
+    finish chapter 6
+
+[33mcommit 4efbebdebb65d5807e5099fe8ace4d78d7ffae96[m
+Author: ShinJaehun <gunsmoke.shin@gmail.com>
+Date:   Mon Jun 19 21:14:21 2023 +0900
+
+    finish chapter 5
+
+[33mcommit c4e428388774363503d51b85307904bdc66007ca[m
+Author: ShinJaehun <gunsmoke.shin@gmail.com>
+Date:   Wed May 31 21:59:09 2023 +0900
+
+    finish feature engineering
+
+[33mcommit ebf391a0b1e6a7afde49ad549225f748c449aec4[m
+Author: ShinJaehun <gunsmoke.shin@gmail.com>
+Date:   Sat May 6 20:18:04 2023 +0900
+
+    finish iris, supervised learning, unsupervised learning
